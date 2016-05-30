@@ -1,0 +1,11 @@
+sudo: required
+
+services:
+  - docker
+
+env:
+  - IMAGE=nativescript
+
+script:
+  - docker build -t $IMAGE .
+  - docker run $IMAGE /bin/sh -c "echo | tns doctor"
