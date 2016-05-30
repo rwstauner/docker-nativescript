@@ -1,6 +1,6 @@
 # Docker Image for [NativeScript][nativescript] (for Android) development
 
-[![docker-badge](http://dockeri.co/image/rwstauner/nativescript)](https://hub.docker.com/r/rwstauner/nativescript)
+[![docker hub](https://img.shields.io/badge/docker-nativescript-blue.svg)](https://hub.docker.com/r/rwstauner/nativescript)
 [![Build Status](https://travis-ci.org/rwstauner/docker-nativescript.svg?branch=master)](https://travis-ci.org/rwstauner/docker-nativescript)
 
 ## Setup
